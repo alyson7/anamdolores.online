@@ -29,7 +29,7 @@ body{
 #divisa1-jdcds44 {
 position: relative;
 padding: 2vh 20vw 2vh 20vw;
-background-color: #120718;
+background-color: #09020d;
 }
 @media (max-width:1200px) {
 #divisa1-jdcds44 {
@@ -87,6 +87,12 @@ text-align: center;
   line-height:1;
   font-size:15px;
   text-align: center;
+  color:#ffffff;
+}
+
+.hedl{
+  text-align: center;
+  font-size:25px;
   color:#ffffff;
 }
 
